@@ -1,3 +1,5 @@
+package dtos;
+
 public enum DayOfWeek {
     MONDAY("Monday"),
     TUESDAY("Tuesday"),

@@ -1,3 +1,5 @@
+package dtos;
+
 public enum Shift {
     MORNING("Morning"),
     AFTERNOON("Afternoon"),
